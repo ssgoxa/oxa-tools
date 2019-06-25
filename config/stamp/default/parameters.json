@@ -27,7 +27,7 @@
             "value": "lexoxaadmin"
         },
         "adminPublicKey": {
-            "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDDrr15jvZPsJpOTCpA1ImtBfPm+FvsKK/vLacB38QRGuYLcXXSdvtBlsNqIV11KgNPoJH5B1tRHAH10PdAIHbJDetcYzn1YSbGD5CyP/ocb0yxrXPkZKXABhuTRUJBFfQ2XfZWdcW4Nt15TMgcD1CNo6Qlkof67mge21IWoR6FhsZ0u9VnYmJZMCNi4zacC+HOfE7EPyO64vxR/qfRvxVTjYeYiA+jRg3wYa/DCCgXBizbFHLpw+hnwQX9i5lgygRE0p2HyPHpJXhkZloDD0xLQCIHaNGH6ir+PqJrSTcvBbRUCwlljI+27vMZTH1pY8Tx5EYhpRYCgY3RIE4H01ulZu4JAofakMJcju9oUCPldy3u+IqmdG7Qz8o+3qyuFGV7f3jX9y5fgdzbXOz6coOzf//B0mV22a5xgXrkFhT7atTCODq6IxbSvycxU9HH9q/B/u5ur5BzVCjkV7cdQtJ6xlF4gTHsV8ts4Jarcg74qc8EHRPuAc61g/BujNI33ri3wiuVRWHYFZhcx2C044UNJemG0AgCJCjtkVEXOAIzSI30PLir2q/XTJVNBe30PGHJppTTz8pktZCs2mEkfszwEt/6hVGI+e1xO1dP1tTzt2xxnAGC+QnCyJo8wK5x2qIf5hxfdbANlV64km2sf41lLrm/RgnwmX2mePU9vPm4Zw== USER@CS_ACSON_A"
+            "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC6ByU+BCm54nGYwQcUtUXjDO8cmXzoK5uV1rekaxt51rKG70V7Z02tRxHa5UuNdougjHkkyJRMa8Ie0NewXuwiFVsHQBBcX4YLjxc7k0RunrdUfXAzDSB5K+1TfVA44PJD28IkhbLnK9svjGnLu/JZALJnY6T4YljtT4llVpgkKRA/JdsNwO4tKv9IO9eDP/2TdXr90fXNwlKXYJ2RVk1ARlUjNQO5d9aGl19/H+PgLucj9mS3YsTNFmMpRQdtRXtw98cP1RNWCWGwDdtjltx8BoU+vtxj5anXFe9Kp+s4zoGoCDaweZfT3egX0hi0r/9sUsfCtHiowBBMeix97VmtktgwAqJIvoer7Hw5rpESkuiYRUwVq9duAoJQ5hlWOsNT0vxpIcGus5QfOC7quwMZPlu/US2A9PX91X9U8nseGDQT6v95k9DLrzcK5rFfvOqfYdYi7rbjFLtgYEB4SG3IKY/TtlYW7NihrEAurUXwsbhL7oh7Wahr8PDbkrU+tQpjK4swHNE4OJQPSN7b7Z3dsK8DMqI+p7r6oD+XdV9E/mvWUNnjKNC3Gc0X6qJxp70KCk9kvv1PreWbq4/Iu2nVGhFyMizTEdlSGDOqRW3qMYLqBeVEsPIwTFnebJXvqaMnvgqk+Mje6sGlvl6YDa28hiblokt8ESgN3+kD7EQqMw== user@CS_ACSON_A"
         },
         "mongoServerAdminUserName": {
             "value": "oxamongoadmin"
